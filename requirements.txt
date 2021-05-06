@@ -1,6 +1,6 @@
 Click==7.0
 Flask==1.0.3
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 Flask-MySQL==1.4.0
 Flask-SocketIO==4.0.0
 gevent==1.4.0
